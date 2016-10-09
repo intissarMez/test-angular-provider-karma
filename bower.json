@@ -1,0 +1,22 @@
+{
+  "name": "test-angular-provider-karma",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yboukhata <yacine_r@yahoo.fr>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
+  }
+}
